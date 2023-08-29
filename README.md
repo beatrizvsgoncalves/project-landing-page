@@ -5,7 +5,7 @@
 
 - [Visão Geral](#visao-geral)
   - [Sobre o projeto](#sobre-o-projeto)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construído com](#construido-com)
@@ -25,15 +25,14 @@ Foi aplicado o conceito de "mobile first" onde se desenvolve primeiro o site par
 
 
 
-### Screenshot
+### Screenshots
 
 #### Para Desktop:
 ![](images/screenshots/screenshot-desktop.jpeg)
 
 #### Para Mobile:
-![](images/screenshots/screenshot-mobile-1.jpg)
-![](images/screenshots/screenshot-mobile-2.jpg)
-![](images/screenshots/screenshot-mobile-3.jpg)
+![](images/screenshots/screenshot-mobile.jpg)
+
 
 
 ### Links
