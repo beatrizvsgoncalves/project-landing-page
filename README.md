@@ -32,9 +32,7 @@ Foi aplicado o conceito de "mobile first" onde se desenvolve primeiro o site par
 
 #### Para Mobile:
 <p>
-<img src="images/screenshots/screenshot-mobile-1.jpg" width="300">
-<img src="images/screenshots/screenshot-mobile-2.jpg" width="300">
-<img src="images/screenshots/screenshot-mobile-3.jpg" width="300">
+<img src="images/screenshots/screenshot-mobile.jpg" width="300">
 </p>
 
 
