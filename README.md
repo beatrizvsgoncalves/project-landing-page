@@ -31,9 +31,11 @@ Foi aplicado o conceito de "mobile first" onde se desenvolve primeiro o site par
 ![](images/screenshots/screenshot-desktop.jpeg)
 
 #### Para Mobile:
-![](images/screenshots/screenshot-mobile-1.jpg)
-![](images/screenshots/screenshot-mobile-2.jpg)
-![](images/screenshots/screenshot-mobile-3.jpg)
+<p>
+<img src="images/screenshots/screenshot-mobile-1.jpg" width="300">
+<img src="images/screenshots/screenshot-mobile-2.jpg" width="300">
+<img src="images/screenshots/screenshot-mobile-3.jpg" width="300">
+</p>
 
 
 ### Links
